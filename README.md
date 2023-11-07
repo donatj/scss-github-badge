@@ -23,5 +23,3 @@ Copy the `_github_badge.scss` file into your SASS/SCSS folder, and include the s
 @import "github_badge.scss";
 @include github_badge( orange );
 ```
-
-Then just make sure you're using `compass`
